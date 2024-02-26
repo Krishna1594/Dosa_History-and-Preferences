@@ -1,7 +1,7 @@
 # Dosa_Hsitory-and-Preferences
 A personal mini-project on my favorite dish 'Dosa'.  #food #indianfood #analytics #history #dataanalysis #datavisualization
 
-## Visuallization
+## Visualization
 Link: [Dashboard](https://public.tableau.com/views/HistoryofDosaPreferences/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Image of the visualization
